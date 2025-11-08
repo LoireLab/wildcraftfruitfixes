@@ -1,0 +1,212 @@
+{
+  "code": "nut",
+  "variants": [
+    {
+      code: "pinecone"
+    },
+    {
+      code: "pinenut"
+    },
+    {
+      code: "dwarfpinecone"
+    },
+    {
+      code: "dwarfpinenut"
+    },
+    {
+      code: "juniper"
+    },
+    {
+      code: "bunyacone"
+    },
+    {
+      code: "bunya"
+    },
+    {
+      code: "pandan"
+    },
+    {
+      code: "marita"
+    },
+    {
+      code: "macadamia"
+    },
+    {
+      code: "macadamiashelled"
+    },
+    {
+      code: "cookedsoya"
+    },
+    {
+      code: "cherrypit"
+    },
+    {
+      code: "almond"
+    },
+    {
+      code: "apricotpit"
+    },
+    {
+      code: "breadnut"
+    },
+    {
+      code: "breadnutbaked"
+    },
+    {
+      code: "commonhackberry"
+    },
+    {
+      code: "sugarhackberry"
+    },
+    {
+      code: "deserthackberry"
+    },
+    {
+      code: "hackberrypit"
+    },
+    {
+      code: "acorn"
+    },
+    {
+      code: "acornshelled"
+    },
+    {
+      code: "acornleached"
+    },
+    {
+      code: "chestnut"
+    },
+    {
+      code: "chestnutbaked"
+    },
+    {
+      code: "walnut"
+    },
+    {
+      code: "walnutshelled"
+    },
+    {
+      code: "hazelnut"
+    },
+    {
+      code: "bearnut"
+    },
+    {
+      code: "pumpkinseed"
+    },
+    {
+      code: "bluequandong"
+    },
+    {
+      code: "beachalmond"
+    },
+    {
+      code: "sumac"
+    },
+    {
+      code: "cashewnut"
+    },
+    {
+      code: "pistachioberry"
+    },
+    {
+      code: "pistachionut"
+    },
+    {
+      code: "oldmansaltbush"
+    },
+    {
+      code: "peanutground"
+    },
+    {
+      code: "almondground"
+    },
+    {
+      code: "apricotpitground"
+    },
+    {
+      code: "halva"
+    },
+    {
+      code: "pacoca"
+    },
+    {
+      code: "marzipan"
+    },
+    {
+      code: "sunflowerbar"
+    },
+    {
+      code: "peanutbar"
+    },
+    {
+      code: "pumpkinbar"
+    },
+    {
+      code: "hazelbar"
+    },
+    {
+      code: "bearnutbar"
+    },
+    {
+      code: "walnutbar"
+    },
+    {
+      code: "almondbar"
+    },
+    {
+      code: "apricotbar"
+    },
+    {
+      code: "cherrybar"
+    },
+    {
+      code: "acornbar"
+    },
+    {
+      code: "pistachiobar"
+    },
+    {
+      code: "cashewbar"
+    },
+    {
+      code: "pinenutbar"
+    },
+    {
+      code: "dwarfpinebar"
+    },
+    {
+      code: "beachalmondbar"
+    },
+    {
+      code: "macadamiabar"
+    },
+    {
+      code: "flaxbar"
+    },
+    {
+      code: "hackberrybar"
+    },
+    {
+      code: "saltbushbar"
+    },
+    {
+      code: "bunyabar"
+    },
+    {
+      code: "cocoapowder"
+    },
+    {
+      code: "chocolate"
+    },
+    {
+      code: "milkchocolate"
+    },
+    {
+      code: "whitechocolate"
+    },
+    {
+      code: "nutchocolate"
+    }
+  ]
+}

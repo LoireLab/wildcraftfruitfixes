@@ -1,0 +1,10 @@
+[
+    {
+	code: "chocomilk",
+	ingredients: [
+           { "type": "item", "code": "wildcraftfruit:nut-cocoapowder", "quantity": 1 },
+           { "type": "item", "code": "game:milkportion",  "litres": 2.5 }
+	],
+	output: { type: "item", code: "wildcraftfruit:chocomilkportion", litres: 2.5 }
+    }
+]

@@ -1,0 +1,28 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+		"pistachiobar": "items/fruit/pistachiobar"
+	},
+	"elements": [
+		{
+			"name": "Cube1",
+			"from": [ 6.5, 0.0, 4.5 ], 
+			"to": [ 9.5, 1.5, 11.5 ], 
+			"rotationOrigin": [ 6.0, 0.0, 4.0 ],
+			"faces": {
+				"north": { "texture": "#pistachiobar", "uv": [ 0.0, 6.0, 6.0, 9.0 ], "autoUv": false },
+				"east": { "texture": "#pistachiobar", "uv": [ 1.0, 0.0, 4.0, 14.0 ], "rotation": 90, "autoUv": false },
+				"south": { "texture": "#pistachiobar", "uv": [ 0.0, 1.0, 6.0, 4.0 ], "autoUv": false },
+				"west": { "texture": "#pistachiobar", "uv": [ 2.0, 0.0, 5.0, 14.0 ], "rotation": 90, "autoUv": false },
+				"up": { "texture": "#pistachiobar", "uv": [ 0.0, 2.0, 6.0, 16.0 ], "autoUv": false },
+				"down": { "texture": "#pistachiobar", "uv": [ 0.0, 0.0, 6.0, 14.0 ], "autoUv": false }
+			}
+		}
+	]}

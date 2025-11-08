@@ -1,0 +1,14 @@
+[
+	{
+		"op": "add",
+		"path": "/ingredients/P/returnedStack",
+		"value": { type: "item", code: "wildcraftfruit:nut-pumpkinseed", quantity: 2 },
+		"file": "game:recipes/grid/pumpkinslice.json"
+	},
+	{
+		"op": "add",
+		"path": "/enabled",
+		"value": "false",
+		"file": "game:recipes/grid/pumpkinseed.json"
+	}
+]

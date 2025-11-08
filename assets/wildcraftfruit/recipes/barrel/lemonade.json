@@ -1,0 +1,74 @@
+[
+    {
+	code: "lemonade",
+        sealHours: 6,
+	ingredients: [
+           { "type": "item", "code": "game:fruit-orange", "quantity": 1 },
+           { "type": "item", "code": "wildcraftfruit:sweetwaterportion",  "litres": 1 }
+	],
+	output: { type: "item", code: "wildcraftfruit:lemonade-orange", litres: 1 }
+    },
+    {
+	code: "lemonade",
+        sealHours: 6,
+	ingredients: [
+           { "type": "item", "code": "wildcraftfruit:fruit-bitterorange", "quantity": 1 },
+           { "type": "item", "code": "wildcraftfruit:sweetwaterportion",  "litres": 1 }
+	],
+	output: { type: "item", code: "wildcraftfruit:lemonade-orange", litres: 1 }
+    },
+    {
+	code: "lemonade",
+        sealHours: 6,
+	ingredients: [
+           { "type": "item", "code": "wildcraftfruit:fruit-pomelo", "quantity": 1 },
+           { "type": "item", "code": "wildcraftfruit:sweetwaterportion",  "litres": 1 }
+	],
+	output: { type: "item", code: "wildcraftfruit:lemonade-pomelo", litres: 1 }
+    },
+    {
+	code: "lemonade",
+        sealHours: 6,
+	ingredients: [
+           { "type": "item", "code": "wildcraftfruit:fruit-grapefruit", "quantity": 1 },
+           { "type": "item", "code": "wildcraftfruit:sweetwaterportion",  "litres": 1 }
+	],
+	output: { type: "item", code: "wildcraftfruit:lemonade-grapefruit", litres: 1 }
+    },
+    {
+	code: "lemonade",
+        sealHours: 6,
+	ingredients: [
+           { "type": "item", "code": "wildcraftfruit:fruit-*", name: "fruit", allowedVariants: ["citron", "lemon"], "quantity": 1 },
+           { "type": "item", "code": "wildcraftfruit:sweetwaterportion",  "litres": 1 }
+	],
+	output: { type: "item", code: "wildcraftfruit:lemonade-citron", litres: 1 }
+    },
+    {
+	code: "lemonade",
+        sealHours: 6,
+	ingredients: [
+           { "type": "item", "code": "wildcraftfruit:fruit-*", name: "fruit", allowedVariants: ["makrut", "lime"], "quantity": 1 },
+           { "type": "item", "code": "wildcraftfruit:sweetwaterportion",  "litres": 1 }
+	],
+	output: { type: "item", code: "wildcraftfruit:lemonade-lime", litres: 1 }
+    },
+    {
+	code: "lemonade",
+        sealHours: 6,
+	ingredients: [
+           { "type": "item", "code": "wildcraftfruit:fruit-kumquat", "quantity": 2 },
+           { "type": "item", "code": "wildcraftfruit:sweetwaterportion",  "litres": 1 }
+	],
+	output: { type: "item", code: "wildcraftfruit:lemonade-kumquat", litres: 1 }
+    },
+    {
+	code: "lemonade",
+        sealHours: 6,
+	ingredients: [
+           { "type": "item", "code": "wildcraftfruit:fruit-fingerlime", "quantity": 2 },
+           { "type": "item", "code": "wildcraftfruit:sweetwaterportion",  "litres": 1 }
+	],
+	output: { type: "item", code: "wildcraftfruit:lemonade-fingerlime", litres: 1 }
+    },
+]

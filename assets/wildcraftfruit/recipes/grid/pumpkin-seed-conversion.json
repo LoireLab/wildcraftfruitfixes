@@ -1,0 +1,12 @@
+[
+  {
+    "ingredientPattern": "H",
+    "shapeless": true,
+    "ingredients": {
+      "H": { "type": "item", "code": "wildcraftfruit:nut-pumpkinseed" }
+    },
+    "width": 1,
+    "height": 1,
+    "output": { "type": "item", "code": "game:seeds-pumpkin" }
+  }
+]
